@@ -1,4 +1,4 @@
 # DragVideo
 a draggble video like wechat
 
-![image](/image/image1.png)
+![image](/result/image1.png)
